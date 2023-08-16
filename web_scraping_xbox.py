@@ -100,7 +100,6 @@ def scrape_data_from_soup(soup, page):
         'Description': descriptions,
         'Release Date': release_dates,
         'Rating': ratings,
-        # 'Rating Detail': rating_details,
         'Price': prices
     }
 
